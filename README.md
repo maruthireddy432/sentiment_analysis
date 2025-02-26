@@ -1,7 +1,7 @@
-## Sentiment Analysis
+# 🌝Sentiment Analysis
 This repository contains my Sentiment Analysis Model that is built to classify text as positive and negative with high accuracy and balanced performance metrics.
 
-## Performance Highlights:
+## 🚀Performance Highlights:
 - Accuracy: 79.87%
 - Precision: 79.89%
 - Recall: 79.87%
@@ -9,7 +9,7 @@ This repository contains my Sentiment Analysis Model that is built to classify t
 ## Project Overview:
 Sentiment analysis is one of the most important techniques for extracting meaningful insights from textual data, such as product reviews, social media posts, and customer feedback. This project demonstrates how NLP techniques and machine learning models can be used to effectively classify sentiment in text.
 
-# Key Features:
+# ⭐Key Features:
 ## Data Preprocessing:
 - Text cleaning (removal of noise, stopwords, and punctuation).
 - Tokenization and lemmatization to standardize textual input.
