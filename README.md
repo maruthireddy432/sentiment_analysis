@@ -1,4 +1,4 @@
-# sentiment_analysis
+## Sentiment Analysis
 This repository contains my Sentiment Analysis Model that is built to classify text as positive and negative with high accuracy and balanced performance metrics.
 
 ## Performance Highlights:
